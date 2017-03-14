@@ -130,14 +130,17 @@
    "instructions": "**What is the main challenge in symmetric encryption?**",
    "points": "1",
    "showValues": true,
-   "text": "The main challenge is the <<<distribution>> of the <<<keys>>> to the <<<communicating>>> parties beforehand",
+   "text": "The main challenge is the <<<distribution>>> of the <<<keys>>> to the <<<communicating>>> parties beforehand",
    "tokens": {
     "blank": [
-     "distribution>> of the <<<keys",
+     "distribution",
+     "keys",
      "communicating"
     ],
     "text": [
      "The main challenge is the ",
+     0,
+     " of the ",
      0,
      " to the ",
      0,
