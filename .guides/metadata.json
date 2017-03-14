@@ -1,0 +1,92 @@
+{
+ "sections": [
+  {
+   "id": "cfcf0d7d-c365-8756-e943-d051208f453e",
+   "title": "Grading Rubric",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Grading-Rubric-cfcf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  },
+  {
+   "id": "8375f3ca-4436-ade5-1e7d-4f7431f65cc0",
+   "title": "Unit 1 - Lab Tasks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit-1---Lab-Tasks-8375.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b8841b4e-4c9b-e19b-ae56-84b559c51e8c",
+   "title": "Shift Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "shift.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shift-Cipher-b884.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "29ea2216-cc9a-c339-805f-a180d1c6bcf7",
+   "title": "Substitution Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "substitution.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Substitution-Cipher-29ea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3d93eb12-9d4e-0ff4-ce09-86df7fb0dd16",
+   "title": "End of Unit Assessment Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-of-Unit-Assessment-Questions-3d93.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
+}

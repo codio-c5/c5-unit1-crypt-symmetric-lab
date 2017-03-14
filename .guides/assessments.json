@@ -1,0 +1,149 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2289198405",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d99f6b27-2512-8f24-34bc-25c4adf21c77",
+     "correct": false,
+     "answer": "File hashing"
+    },
+    {
+     "_id": "7a89e99d-07b0-5bfa-15e9-7aa762f36035",
+     "correct": true,
+     "answer": "File encryption"
+    },
+    {
+     "_id": "7eefdd7b-33d0-ed8c-101a-cbde4ff3f474",
+     "correct": false,
+     "answer": "File permissions"
+    },
+    {
+     "_id": "0fdff00e-9bc2-d429-6d03-6ed49c460395",
+     "correct": false,
+     "answer": "File backup"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1954529734",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**In which of the following attack scenarios does the attacker has most power?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "36de86c8-50f8-7d45-006d-3d89026d4812",
+     "correct": false,
+     "answer": "Ciphertext only attacks"
+    },
+    {
+     "_id": "b3869871-48dc-e013-359d-7ac4ecf66bd3",
+     "correct": false,
+     "answer": "Known plaintext attacks"
+    },
+    {
+     "_id": "a8c43dc4-b743-9f52-8e11-dc0a260521e1",
+     "correct": false,
+     "answer": "Chosen plaintext attacks"
+    },
+    {
+     "_id": "a1e74a13-175d-4af0-4023-7d3bc64572be",
+     "correct": true,
+     "answer": "Chosen ciphertext attacks"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-114193746",
+  "source": {
+   "name": "Question3:",
+   "showName": false,
+   "instructions": "**Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is \"ksshpygo\", what is her message in plaintext?**",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<goodluck>>>",
+   "tokens": {
+    "blank": [
+     "goodluck"
+    ],
+    "text": [
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3816436139",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "259f7a23-2640-4ce1-91e9-b78b7a8cabf3",
+     "correct": true,
+     "answer": "DES"
+    },
+    {
+     "_id": "b309c9e8-b1c7-f94f-43d0-687dc6e761a0",
+     "correct": false,
+     "answer": "RSA"
+    },
+    {
+     "_id": "2e6f492c-8ae1-6635-5371-c3c325f179c1",
+     "correct": false,
+     "answer": "Diffie-Hellman"
+    },
+    {
+     "_id": "17b04dc9-80e9-3c84-e4be-da214103679d",
+     "correct": true,
+     "answer": "AES"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4024746734",
+  "source": {
+   "name": "Question5",
+   "showName": true,
+   "instructions": "**What is the main challenge in symmetric encryption?**",
+   "points": "1",
+   "showValues": true,
+   "text": "The main challenge is the <<<distribution>> of the <<<keys>>> to the <<<communicating>>> parties beforehand",
+   "tokens": {
+    "blank": [
+     "distribution>> of the <<<keys",
+     "communicating"
+    ],
+    "text": [
+     "The main challenge is the ",
+     0,
+     " to the ",
+     0,
+     " parties beforehand"
+    ]
+   }
+  }
+ }
+]
