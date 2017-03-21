@@ -71,17 +71,6 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
-  },
-  {
-   "id": "3d93eb12-9d4e-0ff4-ce09-86df7fb0dd16",
-   "title": "End of Unit Assessment Questions",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/End-of-Unit-Assessment-Questions-3d93.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
   }
  ],
  "theme": "light",
