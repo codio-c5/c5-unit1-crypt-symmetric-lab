@@ -39,7 +39,7 @@
   "type": "free-text",
   "taskId": "free-text-2745207792",
   "source": {
-   "name": "Q4",
+   "name": "Reflection - challenging",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
@@ -51,7 +51,7 @@
   "type": "free-text",
   "taskId": "free-text-2934797159",
   "source": {
-   "name": "Q5",
+   "name": "Reflection - enjoyable",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
@@ -63,7 +63,7 @@
   "type": "free-text",
   "taskId": "free-text-2247447923",
   "source": {
-   "name": "Q6",
+   "name": "Reflection - understanding",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
@@ -123,7 +123,7 @@
   "type": "free-text",
   "taskId": "free-text-1877454323",
   "source": {
-   "name": "Q5",
+   "name": "Reflection - challenging",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
@@ -135,7 +135,7 @@
   "type": "free-text",
   "taskId": "free-text-2544420373",
   "source": {
-   "name": "Q6",
+   "name": "Reflection - enjoyable",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
@@ -147,7 +147,7 @@
   "type": "free-text",
   "taskId": "free-text-2064239799",
   "source": {
-   "name": "Q7",
+   "name": "Reflection - understanding",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
