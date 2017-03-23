@@ -35,14 +35,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "shift.md",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Shift-Cipher-b884.md",
@@ -57,11 +52,6 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "substitution.md",
-     "panel": 0,
-     "action": "open"
     }
    ],
    "layout": "",
